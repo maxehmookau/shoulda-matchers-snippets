@@ -2,6 +2,6 @@
   <content><![CDATA[
 should validate_uniqueness_of(:${1:field})
 ]]></content>
-  <tabTrigger>should validate_uniqueness_of</tabTrigger>
+  <tabTrigger>should_validate_uniqueness_of</tabTrigger>
   <scope>source.ruby</scope>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 should have_db_column(:${1:field}).of_type(:${2:type})
 ]]></content>
-  <tabTrigger>should have_db_coumn</tabTrigger>
+  <tabTrigger>should_have_db_coumn</tabTrigger>
   <scope>source.ruby</scope>
 </snippet>

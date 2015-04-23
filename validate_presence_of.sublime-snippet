@@ -2,6 +2,6 @@
   <content><![CDATA[
 should validate_presence_of(:${1:field})
 ]]></content>
-  <tabTrigger>should validate_presence_of</tabTrigger>
+  <tabTrigger>should_validate_presence_of</tabTrigger>
   <scope>source.ruby</scope>
 </snippet>

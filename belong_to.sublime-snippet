@@ -2,6 +2,6 @@
   <content><![CDATA[
 should belong_to(:${1:association})
 ]]></content>
-  <tabTrigger>should belong_to</tabTrigger>
+  <tabTrigger>should_belong_to</tabTrigger>
   <scope>source.ruby</scope>
 </snippet>

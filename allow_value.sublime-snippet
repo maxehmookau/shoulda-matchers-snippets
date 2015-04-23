@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+should allow_value(:${1:value}).for(:${1:field})
+]]></content>
+  <tabTrigger>should_allow_value</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

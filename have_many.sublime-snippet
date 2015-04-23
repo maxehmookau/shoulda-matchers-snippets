@@ -2,6 +2,6 @@
   <content><![CDATA[
 should have_many(:${1:association})
 ]]></content>
-  <tabTrigger>should have_many</tabTrigger>
+  <tabTrigger>should_have_many</tabTrigger>
   <scope>source.ruby</scope>
 </snippet>
