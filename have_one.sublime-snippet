@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+should have_one(:${1:association})
+]]></content>
+  <tabTrigger>should have_one</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>
